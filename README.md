@@ -1,4 +1,4 @@
-# tensor
+# gitlab
 
 Файлы первого сценария: 
 - about_page.py
