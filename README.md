@@ -8,4 +8,4 @@
 - work_page.py
 
 Файлы второго сценария:
-- main2
+- main2.py
