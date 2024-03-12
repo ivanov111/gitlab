@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
-
 from pageobject import PageObject
+
 
 class AboutPage(PageObject):
     def __init__(self, driver):
